@@ -1,12 +1,20 @@
-## Hi there 👋
+# Informative Gaming
 
-<!--
+## Table of contents
 
-**Here are some ideas to get you started:**
+* [What do we do?](#what-do-we-do)
+* [FAQ](#faq)
+* Owners
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## What do we do
+
+We're trying to create a gaming compannion app that will help you with your missions and improve your gaming skills. The app will be cross platform, so it will be available on Windows, MacOS, Linux(Debian) and Linux(Arch). We will provide tutorial video's and other helpful information for all your favorite games!
+
+
+The official release date is still TBD.
+
+
+## FAQ
+
+empty for now
